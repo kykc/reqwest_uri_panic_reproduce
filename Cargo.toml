@@ -1,0 +1,8 @@
+[package]
+name = "reqwest_uri_panic_reproduce"
+version = "0.1.0"
+authors = ["kykc"]
+
+[dependencies]
+reqwest = "0.8.8"
+
